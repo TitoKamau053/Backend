@@ -1,0 +1,6 @@
+@QuantitySurveyApI_HostAddress = http://localhost:5119
+
+GET {{QuantitySurveyApI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
